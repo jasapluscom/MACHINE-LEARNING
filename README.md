@@ -14,6 +14,11 @@ CONVNET :
   - cifar10-train.py 
 	
   - cifar10convnet.h5
+  -----------------------------------------------------------------------------------
+  
+  mask-rcnn
+  
+  convolutional neural network with image segmentation
   
   ------------------------------------------------------------------------------------
   
