@@ -47,7 +47,7 @@ LSTM :
   
   seq2seq-chatbot
   
-  orry this folder is empty. Since the model is too big.. I planned to upload later
+  Sorry this folder is empty. Since the model is too big.. I planned to upload later
   
   
   
