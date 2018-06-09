@@ -2,6 +2,8 @@
 Machine Learning Source Codes and Models
 
 
+CONVNET :
+
  	keras-cifar10 	
   
   convnet (without tuning) using cifar10 datasets to recognize object in image
@@ -23,6 +25,15 @@ Machine Learning Source Codes and Models
   with slight modification at _obtain_input_shape for keras 2.1.6
   
   
+  -------------------------------------------------------------------------------------
+  
+  
+  LSTM : 
+  
+  seq2seq-engindo
+  
+  simple seq2seq model for translating english to indonesia.
+  dataset contains 3000 words.
   
   
   
