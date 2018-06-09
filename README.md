@@ -39,7 +39,8 @@ LSTM :
   seq2seq-engindo
   
   simple seq2seq model for translating english to indonesia.
-  dataset contains 3000 words.
+  dataset : en-ind.txt.
+  epoch: 105
   
   
   -----------------------------------------------------------------------------------
