@@ -39,15 +39,14 @@ LSTM :
   seq2seq-engindo
   
   simple seq2seq model for translating english to indonesia.
-  dataset : en-ind.txt.
-  epoch: 105
+  dataset : en-ind.txt
   
   
   -----------------------------------------------------------------------------------
   
   seq2seq-chatbot
   
-  Sorry this folder is empty. Since the model is too big.. I planned to upload later
+  Sorry this folder is empty. I planned to upload later
   
   
   
