@@ -49,7 +49,15 @@ LSTM :
   Sorry this folder is empty. I planned to upload later
   
   
-  
+    
+=======
+HUMAN COMPUTER INTERACTIONS :
+=======
+
+AIML Based Chatbot
+
+assistant -> a simple bot that will be able to chat with you via speech recognition and text to speech, capable of doing some basic task, e.g : playing music
+
   
   
 
