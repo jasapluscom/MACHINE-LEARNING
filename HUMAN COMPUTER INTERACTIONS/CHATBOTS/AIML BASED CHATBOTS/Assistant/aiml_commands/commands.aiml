@@ -1,0 +1,52 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>WHAT TIME IS IT</pattern>
+        <template>The time is <system>date "+%l:%M %P"</system></template>
+    </category>
+
+    <category>
+        <pattern>WHAT TIME</pattern>
+        <template>The time is <system>date "+%l:%M %P"</system></template>
+    </category>
+
+    <category>
+        <pattern>WHAT TIME *</pattern>
+        <template>The time is <system>date "+%l:%M %P"</system></template>
+    </category>
+
+    <category>
+        <pattern>PLAY MUSIC</pattern>
+        <template>ok sir <system>firefox https://www.youtube.com/watch?v=21LGv8Cf0us</system></template>
+    </category>
+
+    <category>
+        <pattern>PLAY MUSIC *</pattern>
+        <template>ok sir <system>firefox https://www.youtube.com/watch?v=21LGv8Cf0us</system></template>
+    </category>
+
+    <category>
+        <pattern>PLAY SONG *</pattern>
+        <template>ok sir <system>firefox https://www.youtube.com/watch?v=21LGv8Cf0us</system></template>
+    </category>
+
+    <category>
+        <pattern>OPEN GOOGLE</pattern>
+        <template>ok sir <system>firefox https://www.google.com</system></template>
+    </category>
+
+    <category>
+        <pattern>OPEN FACEBOOK</pattern>
+        <template>ok sir <system>firefox https://www.facebook.com</system></template>
+    </category>
+
+    <category>
+        <pattern>OPEN TWITTER</pattern>
+        <template>ok sir <system>firefox https://twitter.com</system></template>
+    </category>
+
+    <category>
+        <pattern>OPEN INSTAGRAM</pattern>
+        <template>ok sir <system>firefox https://instagram.com</system></template>
+    </category>
+
+</aiml>
