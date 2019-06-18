@@ -56,7 +56,7 @@ HUMAN COMPUTER INTERACTIONS :
 
 AIML Based Chatbot
 
-assistant -> a simple bot that will be able to chat with you via speech recognition and text to speech, capable of doing some basic task, e.g : playing music
+assistant -> a simple artificial intelligence markup language chatbot with speech recognition and text to speech, capable of doing some basic tasks, e.g : playing music, opening web browser
 
   
   
