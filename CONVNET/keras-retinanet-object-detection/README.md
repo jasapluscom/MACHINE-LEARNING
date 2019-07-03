@@ -1,2 +1,2 @@
-Source code for custom object detection on keras retinanet
+Source code for custom object detection using retinanet
 
