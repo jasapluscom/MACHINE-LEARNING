@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 '''
 cardboard detection test code using keras retinanet
-created by Antonius Ringlayer
+modified from original example (jupyter notebook)
 '''
 import keras
 from keras_retinanet import models
